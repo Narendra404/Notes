@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"dc073ca103d1ef6a","x":-440,"y":-120,"width":495,"height":520,"type":"group","label":"This is a Group"},
+		{"type":"text","text":"This is my first card.","id":"e5c4f2ebea3b05e6","x":-420,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"This is my second card.","id":"34309abbfa331d79","x":-215,"y":140,"width":250,"height":60},
+		{"type":"text","text":"This card is to link a note [[Introduction]].","id":"777b6cfdfa627ce4","x":-340,"y":300,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"9276393fc9365323","fromNode":"e5c4f2ebea3b05e6","fromSide":"right","toNode":"34309abbfa331d79","toSide":"right","label":"Label"},
+		{"id":"d7ac2f118947d1b4","fromNode":"34309abbfa331d79","fromSide":"bottom","toNode":"777b6cfdfa627ce4","toSide":"top"}
+	]
+}
