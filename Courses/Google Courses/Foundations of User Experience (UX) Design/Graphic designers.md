@@ -4,12 +4,16 @@
 
 #### Create visuals that tell a story or message.
 
+### *differences*
+
 They are different from UX designers as :
 
-##### They focus on the physical appearance of a product.
+#### graphic designers
+##### They focus on the physical appearance of a [[product]]. Like an *invitation* or a *poster*.
 
-whereas **UX designers** :
+whereas :
 
-##### Focus on how users interact with a product.
+#### UX designers
+##### Focus on how users interact with a [[product]].
 
 #Foundations-of-UX 
